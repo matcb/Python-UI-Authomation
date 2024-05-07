@@ -1,0 +1,2 @@
+- tabula it's a lib to convert pdf to pandas
+- in pandas lines are called INDEX and COLUMS are COLUMNS
